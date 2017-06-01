@@ -132,15 +132,10 @@ namespace CYQ.Data
             object ass = CacheManage.LocalInstance.Get("OracleClient_Assembly");
             if (ass == null)
             {
-                //try
-                //{
+               
                 ass = Assembly.Load("Oracle." + ManagedName + "DataAccess");
                 CacheManage.LocalInstance.Set("OracleClient_Assembly", ass, 10080);
-                //}
-                //catch(Exception err)
-                //{
-                //    Error.Throw(errMsg);
-                //}
+              
             }
             return ass as Assembly;
         }

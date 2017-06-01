@@ -882,6 +882,7 @@ namespace CYQ.Data
             }
             catch (Exception err)
             {
+                System.Diagnostics.Trace.WriteLine(err.Message + err.StackTrace);
                 isOpenOK = false;
                 debugInfo.Append(err.Message);
             }
