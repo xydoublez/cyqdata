@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS_Demo", "Samples\CYQ.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHtmlAction_Demo", "Samples\CYQ.Data.Xml\XHtmlAction\XHtmlAction_Demo\XHtmlAction_Demo\XHtmlAction_Demo.csproj", "{BAF8BC38-E281-4915-850D-4A7FC67BF198}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mysamples", "mysamples", "{6E07B384-1872-46EB-BBE0-71D9F37D479E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySamples", "..\MySamples\MySamples.csproj", "{ED227334-BC44-4B1D-8D1F-BED7F336CEF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +165,10 @@ Global
 		{BAF8BC38-E281-4915-850D-4A7FC67BF198}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAF8BC38-E281-4915-850D-4A7FC67BF198}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAF8BC38-E281-4915-850D-4A7FC67BF198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED227334-BC44-4B1D-8D1F-BED7F336CEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED227334-BC44-4B1D-8D1F-BED7F336CEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED227334-BC44-4B1D-8D1F-BED7F336CEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED227334-BC44-4B1D-8D1F-BED7F336CEF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -189,5 +197,6 @@ Global
 		{172DA37D-08CC-464B-BFA4-28A21D5E558F} = {66103A62-1401-4B88-9FE4-F9CAB7A8FE14}
 		{28AD4062-C084-4169-82BB-DF5840093C46} = {66103A62-1401-4B88-9FE4-F9CAB7A8FE14}
 		{BAF8BC38-E281-4915-850D-4A7FC67BF198} = {66103A62-1401-4B88-9FE4-F9CAB7A8FE14}
+		{ED227334-BC44-4B1D-8D1F-BED7F336CEF1} = {6E07B384-1872-46EB-BBE0-71D9F37D479E}
 	EndGlobalSection
 EndGlobal

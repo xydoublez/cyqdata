@@ -1,0 +1,13 @@
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\App.config
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\MDataTable_Demo.exe.config
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\MDataTable_Demo.exe
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\MDataTable_Demo.pdb
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\CYQ.Data.dll
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\CYQ.Data.pdb
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\bin\Debug\CYQ.Data.xml
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.csprojResolveAssemblyReference.cache
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.Form1.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.Properties.Resources.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.csproj.GenerateResource.Cache
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.exe
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data.Table\MDataTable\MDataTable_Demo\MDataTable_Demo\obj\Debug\MDataTable_Demo.pdb

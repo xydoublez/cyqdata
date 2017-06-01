@@ -1,0 +1,16 @@
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\App.config
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\MAction_Demo.exe.config
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\MAction_Demo.exe
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\MAction_Demo.pdb
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\CYQ.Data.dll
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\CYQ.Data.pdb
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\bin\Debug\CYQ.Data.xml
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.csprojResolveAssemblyReference.cache
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\TActionProject.PagerControl.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.单表操作.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.Properties.Resources.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.多表操作.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.多表查询.resources
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.csproj.GenerateResource.Cache
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.exe
+G:\mycode\cyqdata\cyqdata\Samples\CYQ.Data\MAction\MAction_Demo\obj\Debug\MAction_Demo.pdb
