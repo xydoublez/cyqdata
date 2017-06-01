@@ -1,0 +1,10 @@
+G:\mycode\cyqdata\cyqdata\bin\Debug\CYQ.Data.XML
+G:\mycode\cyqdata\cyqdata\bin\Debug\CYQ.Data.dll
+G:\mycode\cyqdata\cyqdata\bin\Debug\CYQ.Data.pdb
+G:\mycode\cyqdata\cyqdata\bin\Debug\System.Data.OracleClient.dll
+G:\mycode\cyqdata\cyqdata\bin\Debug\zh-CHS\System.Data.OracleClient.resources.dll
+G:\mycode\cyqdata\cyqdata\obj\Debug\CYQ.Data.csprojResolveAssemblyReference.cache
+G:\mycode\cyqdata\cyqdata\obj\Debug\CYQ.Data.Properties.Resources.resources
+G:\mycode\cyqdata\cyqdata\obj\Debug\CYQ.Data.csproj.GenerateResource.Cache
+G:\mycode\cyqdata\cyqdata\obj\Debug\CYQ.Data.dll
+G:\mycode\cyqdata\cyqdata\obj\Debug\CYQ.Data.pdb
